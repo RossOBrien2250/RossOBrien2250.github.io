@@ -6,16 +6,10 @@ Programming Experience with C++, C#, Java, and HTML
 
 Experience in Unity and Unreal
 
-### Projects
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects (being worked on)
+Chex Quest HD
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
