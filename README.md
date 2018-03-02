@@ -9,26 +9,12 @@ Experience in Unity and Unreal
 ### Projects (being worked on)
 #### Chex Quest HD
 
-```markdown
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 #### Water Caves (Working Title)
-```markdown
-
-```
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 
 ### Contact
