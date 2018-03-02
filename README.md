@@ -1,13 +1,11 @@
-# Welcome to My Portfolio Website
-
 Senior Game Programming major at SNHU
 
 Programming Experience with C++, C#, Java, and HTML
 
 Experience in Unity and Unreal
 
-## Projects (being worked on)
-### Chex Quest HD
+# Projects (being worked on)
+## Chex Quest HD
 
 (Image to go here)
 
@@ -15,9 +13,7 @@ Experience in Unity and Unreal
 
 **Role**- Programmer/Level Designer
 
-**Studio Name**- (Currently none)
-
-**Team Size**- 4 (going to change most likely)
+**Team Size**- 
 
 **Developed in**- Unreal Engine 4 and Blueprints
 
