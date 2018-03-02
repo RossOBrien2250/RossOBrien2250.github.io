@@ -1,4 +1,4 @@
-Senior Game Programming major at SNHU
+Graduated SNHU with a Game Programming degree in 2018
 
 Programming Experience with C++, C#, Java, and HTML
 
