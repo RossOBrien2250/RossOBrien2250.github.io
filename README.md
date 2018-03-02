@@ -1,4 +1,4 @@
-## Welcome to My Portfolio Website
+# Welcome to My Portfolio Website
 
 Senior Game Programming major at SNHU
 
@@ -6,8 +6,8 @@ Programming Experience with C++, C#, Java, and HTML
 
 Experience in Unity and Unreal
 
-### Projects (being worked on)
-#### Chex Quest HD
+## Projects (being worked on)
+### Chex Quest HD
 
 (Image to go here)
 
@@ -23,7 +23,7 @@ Experience in Unity and Unreal
 
 
 
-#### Water Caves (Working Title)
+### Water Caves (Working Title)
 
 (Image to go here)
 
