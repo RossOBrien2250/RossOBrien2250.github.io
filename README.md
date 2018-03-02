@@ -4,7 +4,7 @@ Programming Experience with C++, C#, Java, and HTML
 
 Experience in Unity and Unreal
 
-# Projects (being worked on)
+# Projects
 ## Chex Quest HD
 
 (Image to go here)
