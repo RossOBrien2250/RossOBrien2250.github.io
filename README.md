@@ -9,7 +9,15 @@ Experience in Unity and Unreal
 ### Projects (being worked on)
 #### Chex Quest HD
 
+(Image to go here)
 
+##Role##- Programmer/Level Designer
+
+###Studio Name###- (Currently none)
+
+###Team Size###- 4 (going to change most likely)
+
+###Developed in###- Unreal Engine 4 and Blueprints
 
 
 #### Water Caves (Working Title)
@@ -18,7 +26,7 @@ Experience in Unity and Unreal
 
 You are a treasure hunter swimming through underwater caves, when you are attacked by fish! You must swimm through the caves and collect as much treasure as you can before your oxygen runs out or you get killed by fish. Players must find all of the Big Treasures in the level and then escape to win, but watch out for more dangers might be lurking on your way back!
 
-##Role##- Lead Programmer
+##Role##- Lead Programmer/Level Designer
 
 ###Studio Name###- (Currently none)
 
